@@ -1,0 +1,44 @@
+{
+  "nps": [
+    {
+      "name": "Teste 1",
+      "score": "10",
+      "shippingRate": "CURTI",
+      "pricingRate": "CURTI",
+      "siteNavigationRate": "CURTI",
+      "paymentRate": "CURTI",
+      "deliveryRate": "CURTI",
+      "id": 1
+    },
+    {
+      "name": "teste",
+      "score": "1",
+      "shippingRate": "CURTI",
+      "pricingRate": "NÃO CURTI",
+      "siteNavigationRate": "CURTI",
+      "paymentRate": "CURTI",
+      "deliveryRate": "NÃO CURTI",
+      "id": 2
+    },
+    {
+      "name": "Teste",
+      "score": "8",
+      "shippingRate": "NÃO CURTI",
+      "pricingRate": "CURTI",
+      "siteNavigationRate": "NÃO CURTI",
+      "paymentRate": "CURTI",
+      "deliveryRate": "NÃO CURTI",
+      "id": 3
+    },
+    {
+      "name": "Teste",
+      "score": "8",
+      "shippingRate": "NÃO CURTI",
+      "pricingRate": "CURTI",
+      "siteNavigationRate": "NÃO CURTI",
+      "paymentRate": "CURTI",
+      "deliveryRate": "NÃO CURTI",
+      "id": 4
+    }
+  ]
+}
